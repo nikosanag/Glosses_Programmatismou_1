@@ -6,7 +6,7 @@ public class Arrange {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        extract_from_txtfile.extraction(args[0]);
+        extract_from_txtfile.extraction("tree1.txt");
         TreeNode root = build.construct_tree();
 
         build.modify_tree(root);// modifies the tree
