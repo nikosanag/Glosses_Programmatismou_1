@@ -32,4 +32,4 @@ in
  
     (test_base(x,2)) :: minbases xs
 
-end;
+end;  

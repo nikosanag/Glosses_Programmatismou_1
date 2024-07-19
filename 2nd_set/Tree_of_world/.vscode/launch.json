@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Arrange",
+      "request": "launch",
+      "mainClass": "Arrange",
+      "projectName": "Tree_of_world_d297b71f"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
